@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Customer Care" | tr -d cC
