@@ -1,0 +1,2 @@
+#!/bin/bash
+"Your input" | tr Ac Ze
