@@ -1,2 +1,2 @@
 #!/bin/bash
-"Your input" | tr Ac Ze
+tr Ac Ze
